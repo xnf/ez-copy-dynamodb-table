@@ -1,0 +1,21 @@
+{
+  "name": "ez-copy-dynamodb-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=13.2.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.863.0",
+    "command-line-args": "^5.1.1"
+  }
+}
